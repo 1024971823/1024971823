@@ -26,8 +26,7 @@ C · Rust · Python · Embedded · Web
 - 🔧 从 **C 和 STM32** 出发，探索嵌入式，也用 **Rust** 尝试新的实现方式。
 - 🧪 用 **Python / Jupyter Notebook** 记录实验、代码与思考。
 - 🌱 用 **HTML、CSS、JavaScript** 搭建自己的静态博客，把零散的想法慢慢整理下来。
-- 🐾 喜欢让主页多一点自己的风格，比如蓝色猫娘和下面举着数字牌的小伙伴们。
-
+- 🐾 喜欢让主页多一点自己的风格。
 *Exploring embedded systems, Rust, Python, and a small corner of the web.*
 
 ### 🛠 代码与项目 / Selected repositories
