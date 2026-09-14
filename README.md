@@ -69,3 +69,20 @@ C · Rust · Python · Embedded · Web
 </p>
 
 <sub>首次生成需要在仓库的 Actions 页面手动运行一次「Generate contribution graph」。</sub>
+
+### 📈 日积 · 贡献视图
+
+<details open>
+<summary>年度视图 · 绿色三维方块</summary>
+
+<p align="center"><img src="./profile-3d-contrib/profile-green.svg" alt="年度 GitHub 贡献三维图" /></p>
+</details>
+
+<details>
+<summary>月度视图 · 最近 30 天</summary>
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=1024971823&days=30&theme=github-compact&hide_border=true&area=true" alt="最近 30 天 GitHub 贡献" /></p>
+
+<sub>月度图表展示最近 30 天活动；年度三维图由 GitHub Actions 每日生成。</sub>
+</details>
+
