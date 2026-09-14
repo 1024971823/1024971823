@@ -77,4 +77,4 @@ C · Rust · Python · Embedded · Web
 </details>
 
 
-> 🔒 **私人贡献说明**：请在 GitHub「Settings → Public profile → Contributions & Activity」开启 **Include private contributions on my profile**。如果希望三维图也读取私人仓库，请创建一个仅有私有仓库读取权限的 token，并在本仓库「Settings → Secrets and variables → Actions」添加为 `PROFILE_TOKEN`。不要把 token 写进代码或 README。
+
