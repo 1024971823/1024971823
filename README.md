@@ -51,7 +51,7 @@ C · Rust · Python · Embedded · Web
 
 <div align="center">
 
-### 🐾 猫娘举牌 · 欢迎路过
+### 🐾 欢迎路过
 
 <img src="https://count.getloli.com/@srakoul-1024971823-github?theme=original-new&amp;padding=7&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="猫娘举牌的萌系访问计数器" />
 
